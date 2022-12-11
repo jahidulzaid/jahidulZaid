@@ -2,6 +2,7 @@
 🌐 Connect with me through: 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jahidulzaid)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jahidulZaid)[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jahidulzaid)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jahidulzaid)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahidulzaid) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jahidulzaid) 
+
 [![](https://visitcount.itsvg.in/api?id=jahidulzaid&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidulzaid)](https://github.com/anuraghazra/github-readme-stats) 
