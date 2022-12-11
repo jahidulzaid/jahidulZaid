@@ -3,7 +3,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahidulZaid&layout=compact&langs_count=8&theme=algolia"/>
 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidulzaid)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidulzaid)
 
 🌐 Connect with me through: 
 
