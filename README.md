@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jahidul Islam</h1>
+<h1 align="center">Hi 👋 I'm Jahidul Islam</h1>
 <h3>
-  <p class="glowing-text">I am a student of Computer Science and Engineering. A programmer and a writer. </p>
+  <p class="glowing-text">I am a student of Computer Science and Engineering.  A programmer and a writer. </p>
   </h3>
 
 
 
 [![](https://visitcount.itsvg.in/api?id=jahidulzaid&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahidulzaid)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub metrics](https://metrics.lecoq.io/jahidulzaid)  
 
 <details open="">
 <summary>
