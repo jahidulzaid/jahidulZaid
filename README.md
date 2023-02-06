@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Jahidul Islam</h1>
 <h3>
-  <p class="glowing-text">a programmer and a  writer. </p>
+  <p class="glowing-text" align="right">a programmer and a  writer. </p>
   </h3>
 
 
