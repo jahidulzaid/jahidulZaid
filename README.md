@@ -6,7 +6,7 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=jahidulzaid&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
+![Profile views](https://gpvc.arturio.dev/jahidulzaid)
 
 <details open="">
 <summary>
@@ -40,4 +40,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=jahidulzaid)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Profile views](https://gpvc.arturio.dev/jahidulzaid)
+
