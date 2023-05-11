@@ -5,7 +5,6 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=jahidulzaid&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 ![Profile views](https://gpvc.arturio.dev/jahidulzaid)
 
 <details open="">
