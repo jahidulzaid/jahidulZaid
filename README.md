@@ -23,13 +23,14 @@
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=jahidulzaid&theme=react-dark&hide_border=true&area=true)
-
-
 <p align="center" width="130em" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=jahidulzaid&show_icons=true&locale=en" alt="jahidulzaid" /><img   src="https://github-readme-streak-stats.herokuapp.com/?user=jahidulzaid&" alt="jahidulzaid" /></p>
 
 
-
+<!--  Visitor count -->
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jahidulzaid/count.svg" />
+</p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jahidulzaid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahidulzaid//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jahidulzaid/)  
 
