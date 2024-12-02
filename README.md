@@ -36,7 +36,7 @@
 
 <!-- # Competitive Programming : -->
 
-<a href="https://app.daily.dev/jahidulzaid"><img src="https://api.daily.dev/devcards/b6878efd97f14b6a9e21dce17627159f.png?r=82n" width="300" alt="Jahidul Islam's Dev Card"/></a>
+<a href="https://app.daily.dev/jahidulzaid"><img src="https://api.daily.dev/devcards/v2/UgKMl6cmDiyR1SqqafmYz.png?r=ajm" width="356" alt="Jahidul Islam's Dev Card"/></a>
 <img width="500" src="https://leetcard.jacoblin.cool/jahidulzaid?theme=light&font=Karma&ext=contest" />
 
 <!-- Graphs -->
