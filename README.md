@@ -9,9 +9,9 @@
 
 <div align="center" >
   <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jahidulzaid&layout=compact&langs_count=10&theme=algolia" width="33.33%"/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahidulzaid&layout=compact&langs_count=10&theme=algolia" width="33.33%"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jahidulzaid&layout=compact&langs_count=10&theme=algolia" width="33.33%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jahidulzaid&layout=compact&langs_count=10&theme=algolia" width="33%"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahidulzaid&layout=compact&langs_count=10&theme=algolia" width="33%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jahidulzaid&layout=compact&langs_count=10&theme=algolia" width="33%"/>
   </div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahidulzaid&theme=github_dark" width="50%">
 </div>
@@ -28,12 +28,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@jahidul_cse)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jahidulzaid)
 [![](https://visitcount.itsvg.in/api?id=jahidulzaid&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jahidulzaid) -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 
 
