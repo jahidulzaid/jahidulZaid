@@ -3,18 +3,20 @@
   <img src="./logo/jahidul.svg" alt="Jahidul Islam" />
 </h1>
 
-<div align="center" >
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jahidulzaid&layout=compact&langs_count=10&theme=algolia" width="33%"/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahidulzaid&layout=compact&langs_count=10&theme=algolia" width="33%"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jahidulzaid&layout=compact&langs_count=10&theme=algolia" width="33%"/>
-  </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahidulzaid&theme=github_dark" width="100%">
-</div>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Problem+Solver;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
+
+<div align="center" >
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jahidulzaid&layout=compact&langs_count=10&theme=algolia" width="33.33%"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jahidulzaid&layout=compact&langs_count=10&theme=algolia" width="33.33%"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jahidulzaid&layout=compact&langs_count=10&theme=algolia" width="33.33%"/>
+  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahidulzaid&theme=github_dark" width="50%">
+</div>
+
+
 
 ### 🌐 Connect with me ~
 
