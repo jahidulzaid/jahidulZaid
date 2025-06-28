@@ -46,6 +46,8 @@ I have experience in **Web Development (PHP with Laravel Framework, Django), Jav
 
 ## 📂 Projects
 - **[CodeCraft-Academy](https://github.com/jahidulzaid/CodeCraft-Academy)** – An Interactive Learning Platform, built using **PHP Laravel Framework & MVC architecture**.
+- **[POS_System-Food_Ordering](https://github.com/jahidulzaid/POS_System-Food_Ordering-Java_Swing)** – An Approach For Building a Point of Sale System of Customer Food Ordering for Green Cafeteria, built using **Java Swing**.
+- **[ChatBot](https://github.com/jahidulzaid/ChatBot)** – A full-stack chatbot application using Google's Gemini Pro API, built using **Django REST API backend and a React TypeScript frontend**.
 - **AI - ML** – self-study on **Large Language Models (LLMs)** and their potential applications.
 - **Optimizing RAG** – Research and self-study on **Optimizing Large Language Models (LLMs) through RAG**.
 
