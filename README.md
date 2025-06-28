@@ -30,9 +30,13 @@
 [![](https://visitcount.itsvg.in/api?id=jahidulzaid&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+## Visitor
+<!--  Visitor count -->
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jahidulzaid/count.svg" />
+</p>
 
-<details>
-  <summary>📃 &nbsp;Educational Background</summary>
 
 ## Education
 
@@ -42,11 +46,6 @@
   📆 &nbsp;2022 - 2026\
   📍 **&nbsp;Green University Of Bangladesh** - Rokeya Sharani, Mirpur Dhaka Bangladesh
 
-## Visitor
-<!--  Visitor count -->
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jahidulzaid/count.svg" />
-</p>
+
 
 
