@@ -64,15 +64,15 @@ I have experience in **Web Development (PHP with Laravel Framework, Django), Jav
 
 ## 📫 Connect with Me
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/jahidulzaid/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@jahidulzaid"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://www.facebook.com/jahidulzaid"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="mailto:himelhasan1215@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</p> -->
+  <a href="mailto:jahidul.cse.gub@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 
-<p align="center">
+<!-- <p align="center">
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jahidulzaid)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jahidulzaid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahidulzaid)
@@ -80,7 +80,7 @@ I have experience in **Web Development (PHP with Laravel Framework, Django), Jav
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@jahidul_cse)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jahidulzaid)
 [![](https://visitcount.itsvg.in/api?id=jahidulzaid&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
+</p> -->
 
 
 <br>
