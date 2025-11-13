@@ -24,11 +24,11 @@ My portfolio website showcases:
 - 🤖 **AI Agent & Chatbot Development** - ReAct agents, CodeAct frameworks, and autonomous systems
 - 🧠 **LLM Research** - RAG optimization, agentic workflows, and advanced reasoning systems
 - 💼 **Professional Experience** - AI development, research projects, and leadership roles
-- 📚 **Academic Publications** - Research papers under review at A* conferences
+- 📚 **Academic Publications** - **ACCEPTED** paper at BLP Workshop @ AACL-IJCNLP 2025 (A* conference)
 - 🚀 **Featured Projects** - From automated research evaluation to competitive programming agents
 - 🏆 **Achievements** - Competition rankings, certifications, and extracurricular activities
 
-The website provides an interactive and comprehensive view of my work in AI agent development, machine learning, and software engineering.
+The website features a modern two-column responsive design with enhanced professional presentation, publication highlights, and comprehensive technical skills showcase.
 
 ---
 
@@ -49,7 +49,7 @@ Currently working on my thesis about **Optimizing Retrieval-Augmented Generation
 ## 🎯 Current Focus
 
 - 🔬 **Thesis Research**: Optimizing RAG models for knowledge graphs and temporal reasoning
-- 📝 **Publication**: Paper under review at BLP Workshop @ AACL-IJCNLP 2025 (A* Conference)
+- 📝 **Publication**: **ACCEPTED** at BLP Workshop @ AACL-IJCNLP 2025 (A* Conference) - November 2025
 - 🤖 **Agent Development**: Building autonomous agents for complex problem-solving
 - 🏆 **Competitions**: Ranked Top 17 in BLP Workshop 2025 Shared Task 2 (71% pass@1 score)
 
@@ -64,7 +64,7 @@ Currently working on my thesis about **Optimizing Retrieval-Augmented Generation
 - Designed agent orchestration systems with custom tool integrations and memory management
 
 ### Research & Publications
-- **Paper Under Review**: "PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents" at AACL-IJCNLP 2025
+- **Paper ACCEPTED**: "PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents" at BLP Workshop @ AACL-IJCNLP 2025 (A* Conference) - Accepted November 6, 2025
 - **Thesis**: Optimizing RAG models for improved retrieval and temporal reasoning
 
 ### Leadership & Community
@@ -181,9 +181,11 @@ C++ implementation using Trie data structure and hashing for efficient text sear
 
 ## 📰 Publications & Research
 
-### Under Review
+### ✅ Accepted Publications
 **"PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents"**
+- **Status**: ✅ **ACCEPTED** (November 6, 2025)
 - **Conference**: BLP Workshop @ AACL-IJCNLP 2025 (A* Conference)
+- **Authors**: Jahidul Islam, Md Ataullha, Saiful Azad
 - **Focus**: Iterative self-correction mechanisms and multilingual agent frameworks for Bangla-to-Python code generation
 - **Link**: [OpenReview](https://openreview.net/forum?id=wPFUwoE42L)
 
@@ -196,6 +198,7 @@ C++ implementation using Trie data structure and hashing for efficient text sear
 
 ## 🏆 Achievements & Certifications
 
+- ✅ **Paper Accepted** - BLP Workshop @ AACL-IJCNLP 2025 (A* Conference) - November 2025
 - 🥈 **Top 17 Ranking** - BLP Workshop 2025 Shared Task 2 (71% pass@1 score in test phase)
 - 🥈 **1st Runner-Up** - IT Olympiad, GUB CSE Carnival 2024
 - 📜 **Python with Django** - EDGE (ICT Division)
@@ -243,7 +246,7 @@ C++ implementation using Trie data structure and hashing for efficient text sear
 
 <p align="center">
   <strong>© 2025 Jahidul Islam. All rights reserved.</strong><br>
-  <em>Last updated: October 2025</em>
+  <em>Last updated: November 2025</em>
 </p>
 
 ---
