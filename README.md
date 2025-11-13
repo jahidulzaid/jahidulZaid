@@ -14,33 +14,16 @@
   </a>
 </p>
 
----
-
-## 🌐 Portfolio Website
-
-**Visit my professional portfolio:** [jahidulzaid.github.io](https://jahidulzaid.github.io)
-
-My portfolio website showcases:
-- 🤖 **AI Agent & Chatbot Development** - ReAct agents, CodeAct frameworks, and autonomous systems
-- 🧠 **LLM Research** - RAG optimization, agentic workflows, and advanced reasoning systems
-- 💼 **Professional Experience** - AI development, research projects, and leadership roles
-- 📚 **Academic Publications** - Research papers under review at A* conferences
-- 🚀 **Featured Projects** - From automated research evaluation to competitive programming agents
-- 🏆 **Achievements** - Competition rankings, certifications, and extracurricular activities
-
-The website provides an interactive and comprehensive view of my work in AI agent development, machine learning, and software engineering.
-
----
 
 ## 📖 About Me
 
 I am an **AI-focused Computer Science graduate** specializing in **AI Agent and Chatbot Development** and **LLM-based Agentic Systems**. With hands-on experience building **ReAct** and **CodeAct agents** for competition-level code generation, automated reasoning, and multi-step task execution, I'm passionate about advancing autonomous agent capabilities.
 
 My expertise includes:
-- 🤖 **AI Agent Development**: ReAct agents, CodeAct agents, tool-calling workflows, and agent orchestration
-- 🧠 **LLM Frameworks**: LangChain, LangGraph, DSPy, vLLM, and RAG architectures
-- 💻 **Programming**: Python (Advanced), C++, Java, with focus on AI/ML applications
-- 🔬 **Research**: Optimizing RAG models for knowledge graphs and temporal reasoning
+
+- 🤖 **AI Agent & Chatbot Development** - ReAct agents, CodeAct frameworks, and autonomous systems
+- 🧠 **LLM Research** - RAG optimization, agentic workflows, and advanced reasoning systems
+- 📚 **Academic Publications** - **ACCEPTED** paper at BLP Workshop @ AACL-IJCNLP 2025 (A* conference)
 
 Currently working on my thesis about **Optimizing Retrieval-Augmented Generation (RAG) Models** under Professor Dr. Md. Saiful Azad, and contributing to cutting-edge AI research with publications under review at prestigious conferences.
 
@@ -49,9 +32,9 @@ Currently working on my thesis about **Optimizing Retrieval-Augmented Generation
 ## 🎯 Current Focus
 
 - 🔬 **Thesis Research**: Optimizing RAG models for knowledge graphs and temporal reasoning
-- 📝 **Publication**: Paper under review at BLP Workshop @ AACL-IJCNLP 2025 (A* Conference)
+- 📝 **Publication**: **ACCEPTED** at BLP Workshop @ AACL-IJCNLP 2025 (A* Conference) - November 2025
 - 🤖 **Agent Development**: Building autonomous agents for complex problem-solving
-- 🏆 **Competitions**: Ranked Top 17 in BLP Workshop 2025 Shared Task 2 (71% pass@1 score)
+- 🏆 **Competitions**: Ranked Top 10 in BLP Workshop 2025 Shared Task 2 (71% pass@1 score)
 
 ---
 
@@ -64,68 +47,94 @@ Currently working on my thesis about **Optimizing Retrieval-Augmented Generation
 - Designed agent orchestration systems with custom tool integrations and memory management
 
 ### Research & Publications
-- **Paper Under Review**: "PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents" at AACL-IJCNLP 2025
+- **Paper ACCEPTED**: "PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents" at BLP Workshop @ AACL-IJCNLP 2025 (A* Conference) - Accepted November 6, 2025
 - **Thesis**: Optimizing RAG models for improved retrieval and temporal reasoning
 
-### Leadership & Community
-- **Organizing Secretary** - IEEE CSB Chapter, Green University of Bangladesh (2025 - Present)
-- **Membership Development Coordinator** - IEEE Student Branch, GUB (2024 - 2025)
-
 ---
+## 🛠️ Tech Stack
 
-## 🧑‍💻 Technical Skills
+<table>
+<tr>
+<td align="center"><strong>AI Agent Development</strong></td>
+<td>
+<img src="https://img.shields.io/badge/ReAct_Agents-FF6F00?style=for-the-badge&amp;logo=robot&amp;logoColor=white" alt="ReAct Agents" />
+<img src="https://img.shields.io/badge/CodeAct_Agents-FF4081?style=for-the-badge&amp;logo=code&amp;logoColor=white" alt="CodeAct Agents" />
+<img src="https://img.shields.io/badge/Agent_Orchestration-9C27B0?style=for-the-badge&amp;logo=workflow&amp;logoColor=white" alt="Agent Orchestration" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-673AB7?style=for-the-badge&amp;logo=network&amp;logoColor=white" alt="Multi-Agent Systems" />
+<img src="https://img.shields.io/badge/Tool_Calling-5E35B1?style=for-the-badge&amp;logo=tools&amp;logoColor=white" alt="Tool Calling" />
+</td>
+</tr>
+<tr>
+<td align="center"><strong>LLM & AI Frameworks</strong></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=chainlink&amp;logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-00897B?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/DSPy-0277BD?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="DSPy" />
+<img src="https://img.shields.io/badge/vLLM-512DA8?style=for-the-badge&amp;logo=lightning&amp;logoColor=white" alt="vLLM" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&amp;logo=ollama&amp;logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/RAG-D32F2F?style=for-the-badge&amp;logo=database&amp;logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-F57C00?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/Chain_of_Thought-4527A0?style=for-the-badge&amp;logo=brain&amp;logoColor=white" alt="Chain of Thought" />
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Programming Languages</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="SQL" />
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Python Libraries & APIs</strong></td>
+<td>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Anthropic API" />
+<img src="https://img.shields.io/badge/PyPDF2-CC0000?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white" alt="PyPDF2" />
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Machine Learning & AI</strong></td>
+<td>
+<img src="https://img.shields.io/badge/LLMs_(GPT%2C_Claude)-00A67E?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="LLMs" />
+<img src="https://img.shields.io/badge/Knowledge_Graphs-E535AB?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white" alt="Knowledge Graphs" />
+<img src="https://img.shields.io/badge/Vector_Databases-8A2BE2?style=for-the-badge&amp;logo=pinecone&amp;logoColor=white" alt="Vector Databases" />
+<img src="https://img.shields.io/badge/Embedding_Models-FF6F61?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="Embedding Models" />
+<img src="https://img.shields.io/badge/Model_Fine--tuning-7B68EE?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="Fine-tuning" />
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Web Development</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST API" />
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Tools & Technologies</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&amp;logo=json&amp;logoColor=white" alt="JSON" />
+<img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white" alt="CSV" />
+</td>
+</tr>
+</table>
 
-### 🤖 AI Agent Development
-![ReAct Agents](https://img.shields.io/badge/-ReAct_Agents-FF6F00?style=flat&logo=robot&logoColor=white)
-![CodeAct Agents](https://img.shields.io/badge/-CodeAct_Agents-FF4081?style=flat&logo=code&logoColor=white)
-![Agent Orchestration](https://img.shields.io/badge/-Agent_Orchestration-9C27B0?style=flat&logo=workflow&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent_Systems-673AB7?style=flat&logo=network&logoColor=white)
-
-### 🧠 LLM & AI Frameworks
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-00897B?style=flat&logo=graphql&logoColor=white)
-![DSPy](https://img.shields.io/badge/-DSPy-0277BD?style=flat&logo=python&logoColor=white)
-![vLLM](https://img.shields.io/badge/-vLLM-512DA8?style=flat&logo=lightning&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-D32F2F?style=flat&logo=database&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-F57C00?style=flat&logo=openai&logoColor=white)
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-
-### 📚 Python Libraries & APIs
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenAI API](https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic API](https://img.shields.io/badge/-Anthropic_API-191919?style=flat&logo=anthropic&logoColor=white)
-
-### 🌐 Web & Mobile Development
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
-
-### 🎨 Design & Multimedia
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-001932?style=flat&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=Canva&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ---
 
@@ -134,7 +143,7 @@ Currently working on my thesis about **Optimizing Retrieval-Augmented Generation
 ### 🤖 AI Agent & LLM Projects
 
 #### **[PyBanglaCodeAct Agent System](https://github.com/jahidulzaid/PyBanglaCodeActAgent)**
-Autonomous coding agent using CodeAct architecture for competitive programming. Achieved 94% pass@1 in dev phase and 71% in test phase (Top 17 ranking in BLP-2025 Task 2).
+Autonomous coding agent using CodeAct architecture for competitive programming. Achieved 94% pass@1 in dev phase and 71% in test phase (Top 10 ranking in BLP-2025 Task 2).
 - **Tech**: Python, LangChain, CodeAct, Agent Development, Competitive Programming
 - **Features**: Iterative code generation, execution, debugging, and self-refinement with LLM reasoning
 
@@ -181,22 +190,21 @@ C++ implementation using Trie data structure and hashing for efficient text sear
 
 ## 📰 Publications & Research
 
-### Under Review
+### ✅ Accepted Publications
 **"PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents"**
+- **Status**: ✅ **ACCEPTED** (November 6, 2025)
 - **Conference**: BLP Workshop @ AACL-IJCNLP 2025 (A* Conference)
+- **Authors**: Jahidul Islam, Md Ataullha, Saiful Azad
 - **Focus**: Iterative self-correction mechanisms and multilingual agent frameworks for Bangla-to-Python code generation
 - **Link**: [OpenReview](https://openreview.net/forum?id=wPFUwoE42L)
 
-### Thesis
-**Optimizing Retrieval-Augmented Generation (RAG) Models**
-- **Supervisor**: Professor Dr. Md. Saiful Azad
-- **Focus**: RAG model optimizations for knowledge graphs, improved retrieval pipelines, and temporal reasoning
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🥈 **Top 17 Ranking** - BLP Workshop 2025 Shared Task 2 (71% pass@1 score in test phase)
+- ✅ **Paper Accepted** - BLP Workshop @ AACL-IJCNLP 2025 (A* Conference) - November 2025
+- 🥈 **Top 10 Ranking** - BLP Workshop 2025 Shared Task 2 (94% pass@1 score in dev phase)
 - 🥈 **1st Runner-Up** - IT Olympiad, GUB CSE Carnival 2024
 - 📜 **Python with Django** - EDGE (ICT Division)
 - 📜 **PHP with Laravel** - BASIS-BITM
@@ -243,7 +251,7 @@ C++ implementation using Trie data structure and hashing for efficient text sear
 
 <p align="center">
   <strong>© 2025 Jahidul Islam. All rights reserved.</strong><br>
-  <em>Last updated: October 2025</em>
+  <em>Last updated: November 2025</em>
 </p>
 
 ---
