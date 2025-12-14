@@ -166,10 +166,6 @@ Responsive e-commerce platform with comprehensive admin panel and secure payment
 - **Tech**: Laravel, PHP, MySQL, Bootstrap
 - **Features**: User authentication, shopping cart, order management, dynamic content rendering
 
-#### **[Multi-Client ChatApp](https://github.com/jahidulzaid/Multi-Client_ChatApp)**
-Java Swing desktop application with socket programming for real-time messaging.
-- **Tech**: Java, Swing, Socket Programming, Multithreading
-- **Features**: Multi-concurrent clients, efficient message broadcasting
 
 ### 🔬 Machine Learning & Algorithms
 
