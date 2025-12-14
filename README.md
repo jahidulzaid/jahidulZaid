@@ -29,16 +29,13 @@ Currently working on my thesis about **Optimizing Retrieval-Augmented Generation
 
 ---
 
-## 🎯 Current Focus
-
-- 🔬 **Thesis Research**: Optimizing RAG models for knowledge graphs and temporal reasoning
-- 📝 **Publication**: **ACCEPTED** at BLP Workshop @ AACL-IJCNLP 2025 (A* Conference) - November 2025
-- 🤖 **Agent Development**: Building autonomous agents for complex problem-solving
-- 🏆 **Competitions**: Ranked Top 10 in BLP Workshop 2025 Shared Task 2 (71% pass@1 score)
-
----
-
 ## 💼 Professional Highlights
+
+### Current Role: AI Engineer at Softvence (Betopia Group)
+- **Position**: AI Engineer | **Company**: Softvence (Betopia Group) | **Duration**: November 2025 - Present
+- Developing and implementing AI-driven solutions leveraging LLMs and agentic systems
+- Working on production-grade AI applications and intelligent automation systems
+- Collaborating with cross-functional teams to integrate advanced AI technologies into business solutions
 
 ### AI Agent Development
 - Developed **ReAct (Reasoning + Acting) agents** using LangChain and LangGraph
