@@ -25,7 +25,6 @@ My expertise includes:
 - 🧠 **LLM Research** - RAG optimization, agentic workflows, and advanced reasoning systems
 - 📚 **Academic Publications** - **ACCEPTED** paper at BLP Workshop @ AACL-IJCNLP 2025 (A* conference)
 
-Currently working on my thesis about **Optimizing Retrieval-Augmented Generation (RAG) Models** under Professor Dr. Md. Saiful Azad, and contributing to cutting-edge AI research with publications under review at prestigious conferences.
 
 ---
 
@@ -46,7 +45,8 @@ Currently working on my thesis about **Optimizing Retrieval-Augmented Generation
 ## 📰 Publications & Research
 
 - **Paper ACCEPTED**: "PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents" at BLP Workshop @ AACL-IJCNLP 2025 (A* Conference) - Accepted November 6, 2025
-- **Thesis**: Optimizing RAG models for improved retrieval and temporal reasoning
+- Currently working on my thesis about **Optimizing Retrieval-Augmented Generation (RAG) Models** under Professor Dr. Md. Saiful Azad.
+
 
 ---
 ## 🛠️ Tech Stack
@@ -59,7 +59,7 @@ Currently working on my thesis about **Optimizing Retrieval-Augmented Generation
 <img src="https://img.shields.io/badge/CodeAct_Agents-FF4081?style=for-the-badge&amp;logo=code&amp;logoColor=white" alt="CodeAct Agents" />
 <img src="https://img.shields.io/badge/Agent_Orchestration-9C27B0?style=for-the-badge&amp;logo=workflow&amp;logoColor=white" alt="Agent Orchestration" />
 <img src="https://img.shields.io/badge/Multi--Agent_Systems-673AB7?style=for-the-badge&amp;logo=network&amp;logoColor=white" alt="Multi-Agent Systems" />
-<img src="https://img.shields.io/badge/Tool_Calling-5E35B1?style=for-the-badge&amp;logo=tools&amp;logoColor=white" alt="Tool Calling" />
+<img src="https://img.shields.io/badge/Pydantic_AI-5E35B1?style=for-the-badge&amp;logo=tools&amp;logoColor=white" alt="Pydantic AI" />
 </td>
 </tr>
 <tr>
@@ -73,7 +73,6 @@ Currently working on my thesis about **Optimizing Retrieval-Augmented Generation
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
 <img src="https://img.shields.io/badge/RAG-D32F2F?style=for-the-badge&amp;logo=database&amp;logoColor=white" alt="RAG" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-F57C00?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/Chain_of_Thought-4527A0?style=for-the-badge&amp;logo=brain&amp;logoColor=white" alt="Chain of Thought" />
 </td>
 </tr>
 <tr>
@@ -114,21 +113,16 @@ Currently working on my thesis about **Optimizing Retrieval-Augmented Generation
 <td>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FAST API" />
 </td>
 </tr>
 <tr>
 <td align="center"><strong>Tools & Technologies</strong></td>
 <td>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&amp;logo=json&amp;logoColor=white" alt="JSON" />
-<img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white" alt="CSV" />
+
 </td>
 </tr>
 </table>
@@ -150,7 +144,7 @@ End-to-end LLM-powered pipeline for automated conference paper review and evalua
 - **Tech**: Python, OpenAI API, LLM, PDF Processing, Prompt Engineering
 - **Features**: PDF text extraction, structured assessments, intelligent reviewer assignment
 
-#### **[Open-Source LLM Chatbot](https://github.com/jahidulzaid/OpenLLM-Chatbot)**
+#### **[Agentic RAG Chatbot](https://github.com/jahidulzaid/OpenLLM-Chatbot)**
 Node.js-based conversational chatbot with open-source LLM models (Llama, Mistral).
 - **Tech**: Node.js, LLM, REST API, WebSocket, Llama
 - **Features**: Context-aware conversation management, real-time WebSocket support
