@@ -43,7 +43,8 @@ Currently working on my thesis about **Optimizing Retrieval-Augmented Generation
 - Created automated research paper evaluation pipeline with LLM-based analysis
 - Designed agent orchestration systems with custom tool integrations and memory management
 
-### Research & Publications
+## 📰 Publications & Research
+
 - **Paper ACCEPTED**: "PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents" at BLP Workshop @ AACL-IJCNLP 2025 (A* Conference) - Accepted November 6, 2025
 - **Thesis**: Optimizing RAG models for improved retrieval and temporal reasoning
 
@@ -178,31 +179,6 @@ CLI-based ML project for detecting anomalies in datasets with rule-matching capa
 C++ implementation using Trie data structure and hashing for efficient text search.
 - **Tech**: C++, Data Structures, Algorithms, Trie
 - **Features**: Prefix search, exact match, KMP algorithm-based substring search
-
----
-
-## 📰 Publications & Research
-
-### ✅ Accepted Publications
-**"PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents"**
-- **Status**: ✅ **ACCEPTED** (November 6, 2025)
-- **Conference**: BLP Workshop @ AACL-IJCNLP 2025 (A* Conference)
-- **Authors**: Jahidul Islam, Md Ataullha, Saiful Azad
-- **Focus**: Iterative self-correction mechanisms and multilingual agent frameworks for Bangla-to-Python code generation
-- **Link**: [OpenReview](https://openreview.net/forum?id=wPFUwoE42L)
-
-
----
-
-## 🏆 Achievements & Certifications
-
-- ✅ **Paper Accepted** - BLP Workshop @ AACL-IJCNLP 2025 (A* Conference) - November 2025
-- 🥈 **Top 10 Ranking** - BLP Workshop 2025 Shared Task 2 (94% pass@1 score in dev phase)
-- 🥈 **1st Runner-Up** - IT Olympiad, GUB CSE Carnival 2024
-- 📜 **Python with Django** - EDGE (ICT Division)
-- 📜 **PHP with Laravel** - BASIS-BITM
-- 🎖️ **IEEE Member** - 2024, 2025
-- 🎤 **Event Organizer** - IEEE GUB, CSE Carnival 2024, STI 2024
 
 ---
 
