@@ -30,7 +30,7 @@ My expertise includes:
 
 ## 💼 Professional Highlights
 
-### Current Role: AI Engineer at Softvence (Betopia Group)
+### Current Role: AI/ML Developer at Softvence (Betopia Group)
 - **Position**: AI Engineer | **Company**: Softvence (Betopia Group) | **Duration**: November 2025 - Present
 - Developing and implementing AI-driven solutions leveraging LLMs and agentic systems
 - Working on production-grade AI applications and intelligent automation systems
