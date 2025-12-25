@@ -33,7 +33,7 @@ My expertise includes:
 ### Current Role: AI/ML Developer at Softvence (Betopia Group)
 - **Position**: AI Engineer | **Company**: Softvence (Betopia Group) | **Duration**: November 2025 - Present
 - Developing and implementing AI-driven solutions leveraging LLMs and agentic systems
-- Working on production-grade AI applications and intelligent automation systems
+- Working on production-grade AI applications
 - Collaborating with cross-functional teams to integrate advanced AI technologies into business solutions
 
 ### AI Agent Development
