@@ -17,13 +17,14 @@
 
 ## 📖 About Me
 
-I am an **AI-focused Computer Science graduate** specializing in **AI Agent and Chatbot Development** and **LLM-based Agentic Systems**. With hands-on experience building **ReAct** and **CodeAct agents** for competition-level code generation, automated reasoning, and multi-step task execution, I'm passionate about advancing autonomous agent capabilities.
+I am an **AI Engineer** specializing in **AI Agent Development, LLM Automation, and Chatbot Systems**. I have a strong passion for building autonomous workflows capable of advanced reasoning, multi-step execution, and code generation using architectures like **ReAct** and **CodeAct**. 
 
-My expertise includes:
+My core expertise includes:
 
-- 🤖 **AI Agent & Chatbot Development** - ReAct agents, CodeAct frameworks, and autonomous systems
-- 🧠 **LLM Research** - RAG optimization, agentic workflows, and advanced reasoning systems
-- 📚 **Academic Publications** - **ACCEPTED** paper at BLP Workshop @ AACL-IJCNLP 2025 (A* conference)
+- 🤖 **AI Agents & Chatbots** - Developing ReAct/CodeAct frameworks, orchestrating multi-agent systems, and building production-ready AI applications.
+- ⚙️ **AI Automation** - Designing and streamlining complex business processes using AI-driven workflows and tools like **n8n**.
+- 🧠 **LLM Research & RAG** - Optimizing Retrieval-Augmented Generation, developing agentic workflows, and exploring advanced reasoning models.
+- 📚 **Academic Publications** - Published researcher at the BLP Workshop @ AACL-IJCNLP 2025 (A* conference).
 
 
 ---
@@ -44,7 +45,7 @@ My expertise includes:
 
 ## 📰 Publications & Research
 
-- **Paper ACCEPTED**: "PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents" at BLP Workshop @ AACL-IJCNLP 2025 (A* Conference) - Accepted November 6, 2025
+- **Paper Published**: "PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents" at BLP Workshop @ AACL-IJCNLP 2025 (A* Conference)
 - Currently working on my thesis about **Optimizing Retrieval-Augmented Generation (RAG) Models** under Professor Dr. Md. Saiful Azad.
 
 
@@ -122,6 +123,7 @@ My expertise includes:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
 
 </td>
 </tr>
@@ -195,7 +197,7 @@ C++ implementation using Trie data structure and hashing for efficient text sear
 
 <p align="center">
   <strong>📧 Email:</strong> <a href="mailto:jahidul.cse.gub@gmail.com">jahidul.cse.gub@gmail.com</a><br>
-  <strong>📱 Phone:</strong> <a href="tel:+8801886433466">+880 188 643 3466</a><br>
+  <strong>📱 Phone:</strong> <a href="tel:+8801886433466">+880 1886 433466</a><br>
   <strong>📍 Location:</strong> Dhaka, Bangladesh
 </p>
 
@@ -213,8 +215,7 @@ C++ implementation using Trie data structure and hashing for efficient text sear
 </p>
 
 <p align="center">
-  <strong>© 2025 Jahidul Islam. All rights reserved.</strong><br>
-  <em>Last updated: November 2025</em>
+  <strong>© 2026 Jahidul Islam. All rights reserved.</strong><br>
 </p>
 
 ---
